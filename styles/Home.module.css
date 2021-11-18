@@ -55,3 +55,7 @@
 .absent {
   color: red !important;
 }
+
+.absent-row {
+	background-color: #dcdcee;
+}
